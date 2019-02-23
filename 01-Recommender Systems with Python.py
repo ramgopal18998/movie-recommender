@@ -10,7 +10,7 @@ import numpy as np
 import pandas as pd
 
 
-# ## Get the Data
+# Get the Data
 
 # In[137]:
 
